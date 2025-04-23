@@ -9,7 +9,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Gambir"
+				"name": "Gambir Kota"
 			},
             "geometry": {
                 "type": "MultiPolygon",
