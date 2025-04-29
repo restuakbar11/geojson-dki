@@ -10,6 +10,7 @@
 	  {
 		"type": "Feature",
 		"properties": {
+			"tahun":"all",
 		"kode_skpd":"21101401",
 		  "name": "Kota Jakarta Selatan",
 		  "stroke": "#555555",
@@ -9956,6 +9957,7 @@
 	  {
 		"type": "Feature",
 		"properties": {
+			"tahun":"all",
 			"kode_skpd":"21101301",
 		  "name": "Kota Jakarta Barat",
 		  "stroke": "#555555",
@@ -13058,6 +13060,7 @@
 	  {
 		"type": "Feature",
 		"properties": {
+			"tahun":"all",
 			"kode_skpd":"21101201",
 		  "name": "Kota Jakarta Utara",
 		  "stroke": "#555555",
@@ -20484,6 +20487,7 @@
 	  {
 		"type": "Feature",
 		"properties": {
+			"tahun":"all",
 		"kode_skpd":"21101501",
 		  "name": "Kota Jakarta Timur",
 		  "stroke": "#555555",
@@ -31554,6 +31558,7 @@
 	  {
 		"type": "Feature",
 		"properties": {
+			"tahun":"all",
 			"kode_skpd":"21101101",
 		  "name": "Kota Jakarta Pusat",
 		  "stroke": "#555555",
